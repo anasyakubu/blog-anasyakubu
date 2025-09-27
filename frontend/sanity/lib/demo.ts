@@ -2,7 +2,7 @@
  * Demo data used as placeholders and initial values for the blog
  */
 
-export const title = 'Sanity + Next.js'
+export const title = 'Anas Yakubu Blog - Unscripted'
 
 export const description = [
   {
@@ -13,7 +13,7 @@ export const description = [
         _key: '4a58edd077880',
         _type: 'span',
         marks: [],
-        text: 'A statically generated blog example using ',
+        text: 'A blog post here i post all tech content ',
       },
       {
         _key: '4a58edd077881',
@@ -56,4 +56,4 @@ export const description = [
   },
 ]
 
-export const ogImageTitle = 'A Next.js Blog with a Native Authoring Experience'
+export const ogImageTitle = 'Anas Yakubu Unscripted'

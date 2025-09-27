@@ -27,7 +27,7 @@ export default async function Page() {
                 <h1 className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-bold tracking-tighter text-black">
                   <Link
                     className="underline decoration-brand hover:text-brand underline-offset-8 hover:underline-offset-4 transition-all ease-out"
-                    href="https://anasyakubu"
+                    href="https://anasyakubu.com"
                   >
                     Anas
                   </Link>

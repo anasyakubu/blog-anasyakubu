@@ -1,5 +1,5 @@
 {
-  "name": "frontend",
+  "name": "blog-anasyakubu",
   "private": true,
   "scripts": {
     "prebuild": "npm run typegen",
