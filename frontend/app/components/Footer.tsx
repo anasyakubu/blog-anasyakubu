@@ -9,16 +9,16 @@ export default function Footer() {
           </h3>
           <div className="flex flex-col gap-3 items-center justify-center lg:w-1/2 lg:flex-row lg:pl-4">
             <a
-              href="https://github.com/sanity-io/sanity-template-nextjs-clean"
+              href="https://anasyakubu.com"
               className="rounded-full flex gap-2 font-mono whitespace-nowrap items-center bg-black hover:bg-blue focus:bg-blue py-3 px-6 text-white transition-colors duration-200"
               target="_blank"
               rel="noopener noreferrer"
             >
               My Portfolio
             </a>
-            <a href="https://nextjs.org/docs" className="mx-3 hover:underline font-mono">
+            {/* <a href="https://nextjs.org/docs" className="mx-3 hover:underline font-mono">
               Read Next.js Documentation
-            </a>
+            </a> */}
           </div>
         </div>
       </div>

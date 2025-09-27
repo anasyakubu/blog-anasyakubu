@@ -1,6 +1,6 @@
 {
   "name": "blog-anasyakubu",
-  "description": "Next.js + Sanity: A Powerful Website Starter with Real-time Visual Editing",
+  "description": "A Blog build with Next.js + Sanity",
   "keywords": [
     "Sanity",
     "Next.js",
@@ -9,9 +9,9 @@
     "Live Content API (LCAPI)",
     "Real-time"
   ],
-  "homepage": "https://github.com/sanity-io/sanity-template-nextjs-clean#readme",
+  "homepage": "https://blog.anasyakubu.com",
   "bugs": {
-    "url": "https://github.com/sanity-io/sanity-template-nextjs-clean/issues"
+    "url": "https://github.com/anasyakubu/blog-anasyakubu"
   },
   "workspaces": [
     "studio",
